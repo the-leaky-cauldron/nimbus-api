@@ -67,5 +67,5 @@ Nimbus API is a Spring Cloud Gateway application that serves as the central entr
 ## Contact
 
 - Project Maintainer: [Vijaysurya Mandala](mailto:mandala.vijay.surya@gamil.com)
-- Project Repository: [GitHub](https://github.com/the-leaky-cauldron/diagon-alley)
-- Issue Tracker: [GitHub Issues](https://github.com/the-leaky-cauldron/diagon-alley/issues)
+- Project Repository: [GitHub](https://github.com/the-leaky-cauldron/nimbus-api)
+- Issue Tracker: [GitHub Issues](https://github.com/the-leaky-cauldron/nimbus-api/issues)
